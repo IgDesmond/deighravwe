@@ -14,7 +14,9 @@ st.set_page_config(
 st.markdown(
     """
     <style>
-
+    header {
+    background-color: transparent;
+    }
     .stApp {
     background-color: #f0f0f0; /* Set your desired background color here */
     [data-testid="stToolbar"] {visibility: hidden !important;}
