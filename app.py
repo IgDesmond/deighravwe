@@ -106,11 +106,7 @@ section = st.sidebar.radio("Go to", ["Home", "Education", "Experience", "Publica
 # Render Sections
 content_map = {
     "Home": "Desmond Eseoghene IGHRAVWE is an Associate Professor at the Department of Mechanical Engineering, "
-        "Bells University of Technology, Ota, Nigeria. He holds a PhD in Mechanical Engineering from Ladoke Akintola "
-        "University of Technology, Nigeria. He completed his B.Sc. and M.Sc. programs in Industrial Engineering at "
-        "the University of Ibadan, Nigeria. His research areas include artificial intelligence, operations research, "
-        "energy and waste management, and multi-criteria analysis. Currently, he is the Acting Director of Bells "
-        "University of Technology ICT Resource Centre.",
+        "Bells University of Technology, Ota, Nigeria."
     "Education": """
     - **B.Sc**, University of Ibadan, Nigeria (2002-2008): Industrial Engineering
     - **M.Sc**, University of Ibadan, Nigeria (2009-2011): Industrial Engineering
