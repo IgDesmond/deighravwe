@@ -105,8 +105,8 @@ section = st.sidebar.radio("Go to", ["Home", "Education", "Experience", "Publica
 
 # Render Sections
 content_map = {
-    "Home": "Desmond Eseoghene IGHRAVWE is an Associate Professor at the Department of Mechanical Engineering, "
-        "Bells University of Technology, Ota, Nigeria."
+    "Home": "Desmond Eseoghene IGHRAVWE is an Associate Professor at the Department of Mechanical Engineering, 
+        "Bells University of Technology, Ota, Nigeria.,
     "Education": """
     - **B.Sc**, University of Ibadan, Nigeria (2002-2008): Industrial Engineering
     - **M.Sc**, University of Ibadan, Nigeria (2009-2011): Industrial Engineering
