@@ -50,7 +50,7 @@ def generate_pdf():
         "Education": (
             "- **B.Sc**, University of Ibadan, Nigeria (2002-2008): Industrial Engineering\n"
             "- **M.Sc**, University of Ibadan, Nigeria (2009-2011): Industrial Engineering\n"
-            "- **PhD**, Ladoke Akintola University of Technology, Nigeria (2012-2018): Mechanical Engineering"
+            "- **PhD**, Ladoke Akintola University of Technology, Nigeria (2013-2018): Mechanical Engineering"
         ),
         "Work Experience": (
             "- Acting Director ICT Resource Center, Bells University of Technology (2023-2025):\n"
@@ -108,7 +108,7 @@ content_map = { "Home":"Welcome to my CV! Explore my academic and professional j
     "Education": """
     - **B.Sc**, University of Ibadan, Nigeria (2002-2008): Industrial Engineering
     - **M.Sc**, University of Ibadan, Nigeria (2009-2011): Industrial Engineering
-    - **PhD**, Ladoke Akintola University of Technology, Nigeria (2012-2018): Mechanical Engineering
+    - **PhD**, Ladoke Akintola University of Technology, Nigeria (2013-2018): Mechanical Engineering
     """,
     "Experience": """
     - Acting Director ICT Resource Center, Bells University of Technology (2023-2025)
