@@ -104,9 +104,7 @@ st.sidebar.title("Navigation")
 section = st.sidebar.radio("Go to", ["Home", "Education", "Experience", "Publication Links", "Skills", "Contact"])
 
 # Render Sections
-content_map = {
-    "Home": "Desmond Eseoghene IGHRAVWE is an Associate Professor at the Department of Mechanical Engineering, 
-        "Bells University of Technology, Ota, Nigeria.,
+content_map = { "Home":"Welcome to my CV! Explore my academic and professional journey.",
     "Education": """
     - **B.Sc**, University of Ibadan, Nigeria (2002-2008): Industrial Engineering
     - **M.Sc**, University of Ibadan, Nigeria (2009-2011): Industrial Engineering
