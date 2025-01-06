@@ -18,7 +18,7 @@ st.markdown(
     background-color: transparent;
     }
     .stApp {
-    background-color: #0000ff; /* Set your desired background color here */
+    background-color: #ffcc99; /* Set your desired background color here */
     [data-testid="stToolbar"] {visibility: hidden !important;}
     footer {visibility: hidden !important;}
     </style>
