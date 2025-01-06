@@ -14,6 +14,9 @@ st.set_page_config(
 st.markdown(
     """
     <style>
+
+    .stApp {
+    background-color: #f0f0f0; /* Set your desired background color here */
     [data-testid="stToolbar"] {visibility: hidden !important;}
     footer {visibility: hidden !important;}
     </style>
